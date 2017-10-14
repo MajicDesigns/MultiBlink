@@ -1,5 +1,5 @@
 /*
- Multi_Blink3.h
+ Multi_Blink4.h
 
  Blink lots of LEDs at different frequencies simultaneously
 
