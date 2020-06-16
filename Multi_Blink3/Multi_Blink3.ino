@@ -104,7 +104,7 @@
 		{ 3, 0, 0, {{MB_HIGH, 25, 0}, {MB_LOW, 25, 0}, {MB_LOOP, LOOP_PARAM(0, 3)}, {MB_LOW, 300, 0}}, 0 },
 		{ 4, 0, 0, {{MB_LOW, 300, 0}, {MB_HIGH, 25, 0}, {MB_LOW, 25, 0}, {MB_LOOP, LOOP_PARAM(1, 3)}}, 0 },
 
-	Similarly, more complex patterns and inteactions can be planned and configured 
+	Similarly, more complex patterns and interactions can be planned and configured 
 	into the data tables.
 */
 
